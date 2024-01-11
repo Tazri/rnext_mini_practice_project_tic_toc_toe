@@ -1,6 +1,6 @@
 # Tic Toc Toe
 
-This project from module 1, video no 1.12. Also I refactored the code later and add two more feature.
+This project from module 1, video no 1.13. Also I refactored the code later and add two more feature.
 
 ## 🎥 Live Link
 
